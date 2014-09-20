@@ -1,6 +1,9 @@
 style.css
-{font-family: arial;
-	color: black:
+{  body {background-color:white}
+  h1   {color: #549DCB;
+        font-family: "arial"}
+  p    {color: #5E5E5E;
+        font-family: "arial"
 };
 .js-test {
 	background: #85144B;
