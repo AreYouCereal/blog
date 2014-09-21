@@ -1,8 +1,44 @@
-style.css
-{font-family: arial;
-	color: black:
-};
-.js-test {
-	background: #85144B;
+p {
+    font-family: "Arial";
+    font-size: 14px;
+    color:#808080;
 }
+
+h1 {
+	font-family: "Arial";
+	font-size: 18px;
+	color: #549DCB;
 }
+
+h2 {
+	font-family: "Arial";
+	font-size: 14px;
+	color: #549DCB;
+}
+
+a:link {
+	font-family: "Arial";
+	font-size: 12px;
+	color: #549DCB;
+	text-decoration: none;}
+
+a:visited {
+	font-family: "Arial";
+	font-size: 12px;
+	color: #549DCB;;}
+
+a:hover {
+	font-family: "Arial"
+	font-size: 12px;
+	color: #549DCB;;
+	text-decoration: underline;}
+
+a:active {
+	font-family: "Arial";
+	color: #549DCB;
+	text-decoration: none;}
+
+	ul {
+		font-family: "Arial"
+		font-size: 14px;
+	}
